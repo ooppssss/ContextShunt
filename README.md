@@ -244,7 +244,7 @@ ContextShunt/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ContextShunt.git
+[git clone https://github.com/ooppssss/ContextShunt.git]
 cd ContextShunt
 ```
 
